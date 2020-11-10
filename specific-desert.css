@@ -1,0 +1,27 @@
+body
+{
+    background-color: rgb(240, 200, 144);
+	background-image: url('./top-desert.png');
+}
+
+#main-table
+{
+    background-image: url('./footer-desert-2.png');
+    background-position: bottom left;
+    background-repeat: repeat-x;
+}
+
+.pipe
+{
+    background-image: url('./pipe-2.png');
+}
+
+#footer
+{
+    background-image: url('./footer-desert.png');
+}
+
+.footer-left, .footer-right
+{
+    background-color: rgb(240, 200, 144);
+}
