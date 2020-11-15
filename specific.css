@@ -1,0 +1,109 @@
+body, div, p, table, tbody, th, tr, td, ol, ul, li, img
+{
+    font-family: Arial, Sans-Serif;
+    font-size: 10pt;
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+}
+
+a
+{
+    color: #000000;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:hover
+{
+    color: #F8C810;
+}
+
+table
+{
+    table-layout: fixed;
+}
+
+th, tr, td
+{
+    vertical-align: top;
+}
+
+ul
+{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+#screens
+{
+    margin: auto;
+}
+
+#screens img
+{
+    border: solid 2px #000000;
+    height: 75px;
+    width: 100px;
+}
+
+#screens a img:hover
+{
+    border-color: #F8C810;
+}
+
+.image
+{
+    text-align: center;
+}
+
+.center 
+{
+    padding: 4px;
+    text-align: center;
+}
+
+.title
+{
+    font-size: 12pt;
+    font-weight: bold;
+}
+
+.tagline
+{
+    font-weight: bold;
+}
+
+.smalltext
+{
+    font-size: 8pt;
+}
+
+.emphasis
+{
+    font-weight: bold;
+    font-style: italic;
+}
+
+/* Featured tables */
+.featured
+{
+    table-layout: fixed;
+}
+
+.featured img 
+{
+    border: solid 2px #000000;
+}
+
+.featured a img:hover
+{
+    border-color: #F8C810;
+}
+
+/* Hover images */
+.link-download { display: block; width: 242px; height: 32px; background-attachment: scroll; background-image: url('../../../../../download.gif'); background-position: top; margin: auto; margin-top: 8px; margin-bottom: 8px;}
+.link-footer-1 { display: block; width: 94px; height: 30px; background-attachment: scroll; background-image: url('../../../../../footer-1.gif'); background-position: top; margin: auto; }
+
+.link-download:hover { background-position: bottom; }
+.link-footer-1:hover { background-position: bottom; }

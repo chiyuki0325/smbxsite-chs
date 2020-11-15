@@ -1,0 +1,28 @@
+body
+{
+    background-color: rgb(192, 184, 224);
+	background-image: url('./top-ice.png');
+	background-repeat: repeat-x;
+}
+
+#main-table
+{
+    background-image: url('./footer-ice-2.png');
+    background-position: bottom left;
+    background-repeat: repeat-x;
+}
+
+.pipe
+{
+    background-image: url('./pipe-4.png');
+}
+
+#footer
+{
+    background-image: url('./footer-ice.png');
+}
+
+.footer-left, .footer-right
+{
+    background-color: rgb(192, 184, 224);
+}
