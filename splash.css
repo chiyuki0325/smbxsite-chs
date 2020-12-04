@@ -1,0 +1,48 @@
+body, div, p, table, tbody, th, tr, td, ol, ul, li, img
+{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    font-size: 8pt;
+    vertical-align: middle;
+}
+
+p
+{
+    text-align: center;
+}
+
+#middle p
+{
+    text-align: left;
+}
+
+#splash
+{
+    width: 580px;
+    height: 300px;
+    margin: auto;
+    font-size: 8pt;
+}
+
+#splash table
+{
+    table-layout: fixed;
+    width: 560px;
+}
+
+#splash img
+{
+    border: solid 2px #000000;
+}
+
+#splash a img:hover
+{
+    border: solid 2px #F8C810;
+}
+
+#tag
+{
+    padding-bottom: 16px;
+    font-size: 10pt;
+}
