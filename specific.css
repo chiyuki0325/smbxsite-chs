@@ -1,4 +1,4 @@
-body, div, p, table, tbody, th, tr, td, ol, ul, li, img
+﻿body, div, p, table, tbody, th, tr, td, ol, ul, li, img
 {
     font-family: Arial, Sans-Serif;
     font-size: 10pt;
@@ -102,8 +102,8 @@ ul
 }
 
 /* Hover images */
-.link-download { display: block; width: 242px; height: 32px; background-attachment: scroll; background-image: url('../../../../../download.gif'); background-position: top; margin: auto; margin-top: 8px; margin-bottom: 8px;}
-.link-footer-1 { display: block; width: 94px; height: 30px; background-attachment: scroll; background-image: url('../../../../../footer-1.gif'); background-position: top; margin: auto; }
+.link-download { display: block; width: 242px; height: 32px; background-attachment: scroll; background-image: url('./download.gif'); background-position: top; margin: auto; margin-top: 8px; margin-bottom: 8px;}
+.link-footer-1 { display: block; width: 94px; height: 30px; background-attachment: scroll; background-image: url('./footer-1.gif'); background-position: top; margin: auto; }
 
 .link-download:hover { background-position: bottom; }
 .link-footer-1:hover { background-position: bottom; }
