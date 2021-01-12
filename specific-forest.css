@@ -1,0 +1,35 @@
+body
+{
+    background-color: #000000;
+	background-image: url('./top-forest.png');
+	background-repeat: repeat;
+}
+
+#main-table
+{
+    background-image: url('./footer-forest-2.png');
+    background-position: bottom left;
+    background-repeat: repeat-x;
+}
+
+.pipe
+{
+    background-image: url('./pipe-3.png');
+}
+
+#footer
+{
+    background-image: url('./footer-forest.png');
+}
+
+.footer-left, .footer-right
+{
+    background-color: rgb(152, 184, 200);
+}
+
+.link-home     { background-image: url('./headicons2/home.gif'); }
+.link-episodes { background-image: url('./headicons2/episodes.gif'); }
+.link-graphics { background-image: url('./headicons2/graphics.gif'); }
+.link-links    { background-image: url('./headicons2/links.gif'); }
+.link-wiki     { background-image: url('./headicons2/w.gif'); }
+.link-forums   { background-image: url('./headicons2/forums.gif'); }
